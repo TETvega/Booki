@@ -1,0 +1,6 @@
+@Booki_HostAddress = http://localhost:5034
+
+GET {{Booki_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
