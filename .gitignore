@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,rider,jetbrains,jetbrains+all,macos,windows,images,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode,rider,jetbrains,jetbrains+all,macos,windows,images,node
 
+
+*.vscode
+
 ### Images ###
 # JPEG
 *.jpg
@@ -244,7 +247,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
